@@ -7,3 +7,5 @@ git config --global user.name "name"
 
 git add . -> staged changes
 git commit -m "<message>" - commit changes
+git remote add <remote_name> <remote_url>
+git push <remote_name> <branch_name>
