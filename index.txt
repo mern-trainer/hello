@@ -1,0 +1,8 @@
+Hello -> collab
+
+git init -> git initialize 
+
+git config --global user.email "email"
+git config --global user.name "name"
+
+git add . -> staged changes
